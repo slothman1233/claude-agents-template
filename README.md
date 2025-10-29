@@ -185,7 +185,6 @@ MIT License
 ## 🔗 相关资源
 
 - [Claude API 文档](https://docs.anthropic.com/)
-- [项目 Wiki](docs/README.md)
 
 ---
 
