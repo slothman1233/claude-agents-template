@@ -1,0 +1,9 @@
+build
+dist
+node_modules
+logs
+public/upload/**/*.*
+*.log
+.DS_Store
+typings
+typings.json
